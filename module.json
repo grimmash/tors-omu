@@ -1,10 +1,10 @@
 {
   "title": "Tor's Omu",
   "description": "High quality maps and tiles for the Shrines in Omu for the Tomb of the Nine Gods in Tomb of Annihilation.",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "url": "https://github.com/grimmash/tors-omu",
   "manifest": "https://raw.githubusercontent.com/grimmash/tors-omu/main/module.json",
-  "download": "https://github.com/grimmash/tors-omu/archive/refs/tags/v0.2.0.zip",
+  "download": "https://github.com/grimmash/tors-omu/archive/refs/tags/v1.0.0.zip",
   "packs": [
     {
       "name": "tor_omu_scenes",
